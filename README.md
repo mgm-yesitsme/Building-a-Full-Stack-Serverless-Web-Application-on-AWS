@@ -56,7 +56,7 @@ Steps:
 - Set up continuous deployment to automatically deploy changes.
 - Configure Cognito for authentication and secure access.
 
-*** Challenges Faced:
+*** Challenges I faced:
 
 Lambda Permissions: Configuring correct IAM roles and permissions for the Lambda function to access DynamoDB was a challenge, as improper configurations led to access issues.
 CORS Issues: When trying to access the API from the frontend, I encountered CORS errors that required adjustments in API Gateway settings.
